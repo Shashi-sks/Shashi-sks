@@ -15,7 +15,7 @@ Tools Used:
                 • Analytics Languages: SQL, Excel.               
                 • Databases: MySQL Workbench 
 
-My CV in [pdf](https://drive.google.com/file/d/1eUJh34u_Bc_EhB31CHCejUeCQoUu8bq3/view?usp=share_link)
+My CV in [pdf](https://drive.google.com/file/d/1qiRacicQUNX7kKFkP5FpCkRWG7MUJEW9/view?usp=share_link)
 
 ## Certificates
 - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-b16ef6c9-1b90-4884-bdad-34726cfc696f/)         (26/09/2022)  (Udemy)
@@ -26,7 +26,6 @@ My CV in [pdf](https://drive.google.com/file/d/1eUJh34u_Bc_EhB31CHCejUeCQoUu8bq3
 ## Contacts
 - LinkedIn: [@shashidit](https://www.linkedin.com/in/shashidit/)
 - E-mail:  shashikant5255@gmail.com
-
 <!---
 Shashi-sks/Shashi-sks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
