@@ -2,7 +2,7 @@
 ## About
 
 Hi, I'm Shashi! I have a technical background and hold a Bachelor of Technology (B.Tech.) degree in Electrical engineering from [DIT University](https://www.dituniversity.edu.in) Dehradun.
-I have 2 years of experience in the field of Data Transformation Analyst & Incident Analyst where I held roles such as 
+I have 2+ years of experience in the field of Data Transformation Analyst & Incident Analyst where I held roles such as 
 <br>
                 • Data Analysis: Collect and analyze data related to tower infrastructure using SQL Queries.          
                 • Transformation: Utilizing the Power Query Editor to clean, shape and structure data from diverse sources             
@@ -15,7 +15,7 @@ Tools Used:
                 • Analytics Languages: SQL, Excel.               
                 • Databases: MySQL Workbench 
 
-My CV in [pdf](https://drive.google.com/file/d/1qiRacicQUNX7kKFkP5FpCkRWG7MUJEW9/view?usp=share_link)
+My CV in [pdf]()
 
 ## Certificates
 - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-b16ef6c9-1b90-4884-bdad-34726cfc696f/)         (26/09/2022)  (Udemy)
@@ -25,7 +25,6 @@ My CV in [pdf](https://drive.google.com/file/d/1qiRacicQUNX7kKFkP5FpCkRWG7MUJEW9
 
 ## Contacts
 - LinkedIn: [@shashidit](https://www.linkedin.com/in/shashidit/)
-- E-mail:  shashikant5255@gmail.com
 <!---
 Shashi-sks/Shashi-sks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
