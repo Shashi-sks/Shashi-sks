@@ -1,7 +1,5 @@
-# Shashi Kant Singh - Data Analyst Portfolio
+# Shashi Kant Singh - Data Analyst & Power BI Developer Portfolio
 ## About
-
-# Power BI Developer & Data Analyst
 
 Power BI Developer and Data Analyst with **3+ years of experience** delivering end-to-end BI solutions, including ETL development, data modeling, DAX optimization, and interactive dashboard creation.
 
