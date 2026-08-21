@@ -1,19 +1,56 @@
 # Shashi Kant Singh - Data Analyst Portfolio
 ## About
 
-Hi, I'm Shashi! I have a technical background and hold a Bachelor of Technology (B.Tech.) degree in Electrical engineering from [DIT University](https://www.dituniversity.edu.in) Dehradun.
-I have 2+ years of experience in the field of Data Transformation Analyst & Incident Analyst where I held roles such as 
-<br>
-                • Data Analysis: Collect and analyze data related to tower infrastructure using SQL Queries.          
-                • Transformation: Utilizing the Power Query Editor to clean, shape and structure data from diverse sources             
-                • Visualizations - Create interactive charts, tables, maps, and custom visuals to convey information dynamically.
-<br>
+# Power BI Developer & Data Analyst
 
-Tools Used:
-<br>
-                • Visualization tools: Power BI          
-                • Analytics Languages: SQL, Excel.               
-                • Databases: MySQL Workbench 
+Power BI Developer and Data Analyst with **3+ years of experience** delivering end-to-end BI solutions, including ETL development, data modeling, DAX optimization, and interactive dashboard creation.
+
+Delivered enterprise-grade reporting solutions across **FMCG (Pernod Ricard), IT Services (Velocis Systems), and Telecom Infrastructure (Indus Towers)**, covering sales hierarchy reporting, SLA monitoring, incident analytics, and master data governance—built for accuracy, scalability, and audit-readiness.
+
+## 🛠️ Core Skills
+
+* **Power BI:** Interactive Dashboards, DAX (`CALCULATE`, `SUMX`, Time Intelligence, Iterator Functions, Filter Context), Power Query (M), Row-Level Security (RLS), Drill-Through, Bookmarks, Custom Tooltips, Power BI Service
+* **Data Modeling:** Star & Snowflake Schemas, Composite Models, Calculated Columns, Hierarchies, Data Mart Design
+* **ETL & Data Engineering:** Multi-source Integration, Data Cleaning & Transformation, Automated Refresh, Dataflows, Pipeline Design
+* **SQL:** DDL/DML, T-SQL, Joins, Window Functions, CTEs, Subqueries, CASE Statements, Query Performance Tuning
+* **Advanced Excel:** Pivot Tables, INDEX-MATCH, SUMIFS/COUNTIFS, SUMPRODUCT, Slicers, Dynamic Dashboard Design
+
+## 🎯 What I Do
+
+I focus on building **trusted data solutions** where accuracy, validation, and performance are as important as visual design.
+
+My approach ensures:
+
+* Clean and reliable data pipelines
+* Well-structured and scalable data models
+* Optimized DAX and SQL queries
+* Validated and audit-ready reporting
+* Business metrics that stand up to stakeholder scrutiny
+* Interactive dashboards designed for decision-making
+
+## 🚀 Recent Highlights
+
+* **Pernod Ricard:** Designed executive scorecards for a multi-tier sales hierarchy spanning **TSM to Zone Head**.
+* **Velocis Systems:** Reduced manual reporting effort by **50%** through Power Query automation.
+* **Indus Towers:** Cut report generation time by **25%** using SQL and dashboard optimization.
+* Automated weekly **AD reconciliation and MDM governance reports**, improving data accuracy and access control.
+
+## 💡 My Approach
+
+I enjoy simplifying complex data into **meaningful insights that influence decision-making and business outcomes**.
+
+From raw data ingestion and transformation to semantic modeling, DAX, SQL optimization, and executive dashboards, I focus on building solutions that are:
+
+**Accurate → Scalable → Performant → Actionable**
+
+## 🔎 Open to Opportunities
+
+Open to **Power BI Developer, Data Analyst, and Business Intelligence** roles where analytical depth and business impact go hand in hand.
+
+## 📌 Skills
+
+`Power BI` · `DAX` · `Power Query (M)` · `SQL` · `T-SQL` · `Advanced Excel` · `Star Schema` · `Data Modelling` · `ETL` · `KPI Dashboards` · `RLS` · `Business Intelligence` · `Reporting Automation` · `Data Visualisation`
+
 
 My CV in [pdf]()
 
