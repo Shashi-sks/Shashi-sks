@@ -52,7 +52,7 @@ Open to **Power BI Developer, Data Analyst, and Business Intelligence** roles wh
 `Power BI` · `DAX` · `Power Query (M)` · `SQL` · `T-SQL` · `Advanced Excel` · `Star Schema` · `Data Modelling` · `ETL` · `KPI Dashboards` · `RLS` · `Business Intelligence` · `Reporting Automation` · `Data Visualisation`
 
 
-My CV in [pdf]()
+My CV in [pdf](https://drive.google.com/file/d/1KOAvPp73uoWPFrZnaNT0CXGrg3xqWkXZ/view?usp=sharing)
 
 ## Certificates
 - [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-b16ef6c9-1b90-4884-bdad-34726cfc696f/)         (26/09/2022)  (Udemy)
